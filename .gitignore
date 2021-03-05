@@ -1,2 +1,5 @@
 config.py
 .env
+bot_models.pyc
+products_db.pyc
+app.py
